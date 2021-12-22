@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covid-calculator/static/css/main.83d97c6a.css",
+    "main.js": "/covid-calculator/static/js/main.e3e15e93.js",
+    "static/js/787.4591e9ee.chunk.js": "/covid-calculator/static/js/787.4591e9ee.chunk.js",
+    "index.html": "/covid-calculator/index.html",
+    "main.83d97c6a.css.map": "/covid-calculator/static/css/main.83d97c6a.css.map",
+    "main.e3e15e93.js.map": "/covid-calculator/static/js/main.e3e15e93.js.map",
+    "787.4591e9ee.chunk.js.map": "/covid-calculator/static/js/787.4591e9ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d97c6a.css",
+    "static/js/main.e3e15e93.js"
+  ]
+}
